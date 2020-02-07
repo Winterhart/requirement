@@ -13,12 +13,15 @@ known which requirements.
 
 ### Epic
 
-Captures a large feature or multiple  smallfeatures feature together in a single
-requirement.
+An *Epic* is a screenshot to capture multiple use cases in one idea.
+Usually, we can get few stories out of an *Epic*. 
+
 
 
 
 ### Story
+
+
 
 
 ### Initialtive/Theme (optional)
@@ -29,6 +32,7 @@ Some folk uses the work *Theme* or *Initiative* to describe a group of
 
 
 ### Task (optionial)
+
 
 ### Subtask (optional)
 
